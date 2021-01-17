@@ -1,5 +1,9 @@
 # MandatoryTextInputLayout
 
+<p align="center">
+  <img src="https://github.com/gzeinnumer/MyLibUtils/blob/master/preview/bg.jpg" width="400"/>
+</p>
+
 - gradle
 ```gradle
 dependencies {
