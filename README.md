@@ -39,9 +39,10 @@ dependencies {
 </style>
 ```
 
-- [res/color/my_mtrl_indicator_text_color](https://github.com/gzeinnumer/MandatoryTextInputLayout/blob/master/app/src/main/res/color/my_mtrl_indicator_helper_text_color.xml)
-- [res/color/my_mtrl_outlined_stroke_color](https://github.com/gzeinnumer/MandatoryTextInputLayout/blob/master/app/src/main/res/color/my_mtrl_outlined_stroke_color.xml)
-- [res/color/my_mtrl_indicator_helper_text_color](https://github.com/gzeinnumer/MandatoryTextInputLayout/blob/master/app/src/main/res/color/my_mtrl_indicator_helper_text_color.xml)
+- [res/values/color.xml](https://github.com/gzeinnumer/MandatoryTextInputLayout/blob/master/app/src/main/res/values/colors.xml)
+- [res/color/my_mtrl_indicator_text_color.xml](https://github.com/gzeinnumer/MandatoryTextInputLayout/blob/master/app/src/main/res/color/my_mtrl_indicator_helper_text_color.xml)
+- [res/color/my_mtrl_outlined_stroke_color.xml](https://github.com/gzeinnumer/MandatoryTextInputLayout/blob/master/app/src/main/res/color/my_mtrl_outlined_stroke_color.xml)
+- [res/color/my_mtrl_indicator_helper_text_color.xml](https://github.com/gzeinnumer/MandatoryTextInputLayout/blob/master/app/src/main/res/color/my_mtrl_indicator_helper_text_color.xml)
 
 ---
 
