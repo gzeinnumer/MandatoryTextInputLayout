@@ -11,6 +11,7 @@
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/ed_password_p"
+        app:hintTextColor="@color/green_500"
         style="@style/MyTextInputLayoutOutlinedBox.Man">
 
         <com.google.android.material.textfield.TextInputEditText
